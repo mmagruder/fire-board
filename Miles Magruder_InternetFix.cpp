@@ -1,7 +1,3 @@
-// Miles Magruder
-// 1329585
-// Project 4
-
 #include <iostream>
 #include <fstream>
 
