@@ -1,6 +1,3 @@
-// Miles Magruder
-// 1329585
-
 #include <iostream>
 using namespace std;
 int main()
