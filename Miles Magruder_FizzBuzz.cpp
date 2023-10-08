@@ -1,7 +1,3 @@
-// Miles Magruder
-// 1329585
-// Quiz 8
-
 #include <iostream>
 using namespace std;
 int main() {
