@@ -1,7 +1,3 @@
-// Miles Magruder
-// 1329585
-// Quiz 7
-
 #include <iostream>
 using namespace std;
 
@@ -25,7 +21,7 @@ int main() {
     double fahrenheit = celsius * 1.8 + 32;
 
     // Check which substances will freeze and boil at the given temperature
-    cout << "At " << celsius << "°C (" << fahrenheit << "°F):" << endl;
+    cout << "At " << celsius << "Â°C (" << fahrenheit << "Â°F):" << endl;
     if (celsius <= ethyl_freeze) {
         cout << "- Ethyl alcohol will freeze." << endl;
     }
